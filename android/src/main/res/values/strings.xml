@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ongoing_call_default_name">Call</string>
+    <string name="ongoing_call_scheme">call</string>
+</resources>
+

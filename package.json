@@ -1,0 +1,57 @@
+{
+  "name": "expo-ongoing-call-notification",
+  "version": "1.0.0",
+  "description": "Enterprise-grade incoming and ongoing VoIP call notifications with lock-screen full screen intent and CallStyle support for Expo and React Native",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf build",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm run build",
+    "lint": "eslint \"**/*.{ts,tsx}\""
+  },
+  "keywords": [
+    "expo",
+    "expo-module",
+    "react-native",
+    "voip",
+    "call",
+    "incoming-call",
+    "ongoing-call",
+    "callkit",
+    "telecom",
+    "foreground-service",
+    "callstyle",
+    "notification"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/expo-ongoing-call-notification.git"
+  },
+  "bugs": {
+    "url": "https://github.com/username/expo-ongoing-call-notification/issues"
+  },
+  "homepage": "https://github.com/username/expo-ongoing-call-notification#readme",
+  "files": [
+    "build",
+    "android",
+    "ios",
+    "app.plugin.js",
+    "expo-module.config.json",
+    "expo-ongoing-call-notification.podspec",
+    "README.md",
+    "LICENSE"
+  ],
+  "peerDependencies": {
+    "expo": ">=50.0.0",
+    "expo-modules-core": "*"
+  },
+  "devDependencies": {
+    "@expo/config-plugins": "^8.0.0",
+    "expo-modules-core": "^1.12.0",
+    "typescript": "^5.3.3"
+  }
+}

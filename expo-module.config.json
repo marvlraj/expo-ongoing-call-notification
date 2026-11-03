@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["OngoingCallNotificationModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.ongoingcallnotification.OngoingCallNotificationModule"]
+  }
+}

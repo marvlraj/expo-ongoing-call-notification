@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Compilation & Build outputs
+build/
+dist/
+plugin/build/
+
+# Android build outputs & local caches
+android/.gradle/
+android/build/
+android/local.properties
+android/.idea/
+*.iml
+
+# iOS build outputs & Pods
+ios/Pods/
+ios/build/
+*.xcworkspace/
+*.xcuserdatad/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Expo & Metro
+.expo/
+.metro/
+*.tsbuildinfo
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System & Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
