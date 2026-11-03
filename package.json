@@ -25,16 +25,16 @@
     "callstyle",
     "notification"
   ],
-  "author": "",
+  "author": "Marvl Raj",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/expo-ongoing-call-notification.git"
+    "url": "https://github.com/marvlraj/expo-ongoing-call-notification.git"
   },
   "bugs": {
-    "url": "https://github.com/username/expo-ongoing-call-notification/issues"
+    "url": "https://github.com/marvlraj/expo-ongoing-call-notification/issues"
   },
-  "homepage": "https://github.com/username/expo-ongoing-call-notification#readme",
+  "homepage": "https://github.com/marvlraj/expo-ongoing-call-notification#readme",
   "files": [
     "build",
     "android",

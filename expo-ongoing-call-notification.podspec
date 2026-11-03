@@ -8,13 +8,13 @@ Pod::Spec.new do |s|
   s.summary        = package['description']
   s.description    = package['description']
   s.license        = package['license']
-  s.author         = package['author']
-  s.homepage       = package['homepage']
+  s.author         = 'Marvl Raj'
+  s.homepage       = 'https://github.com/marvlraj/expo-ongoing-call-notification'
   s.platforms      = {
     :ios => '15.1'
   }
   s.swift_version  = '5.4'
-  s.source         = { git: 'https://github.com/username/expo-ongoing-call-notification.git' }
+  s.source         = { git: 'https://github.com/marvlraj/expo-ongoing-call-notification.git' }
   s.static_framework = true
 
   s.dependency 'ExpoModulesCore'

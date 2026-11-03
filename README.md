@@ -1,7 +1,7 @@
 # expo-ongoing-call-notification
 
 [![npm version](https://img.shields.io/npm/v/expo-ongoing-call-notification.svg?style=flat-square)](https://www.npmjs.com/package/expo-ongoing-call-notification)
-[![license](https://img.shields.io/npm/l/expo-ongoing-call-notification.svg?style=flat-square)](https://github.com/username/expo-ongoing-call-notification/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/expo-ongoing-call-notification.svg?style=flat-square)](https://github.com/marvlraj/expo-ongoing-call-notification/blob/main/LICENSE)
 [![platform](https://img.shields.io/badge/platform-android%20%7C%20ios%20%7C%20web-blue.svg?style=flat-square)](#platform-support)
 
 Enterprise-grade incoming and ongoing VoIP call notifications for **React Native** and **Expo** (Managed & Bare workflows). Engineered specifically for modern Android 14+ background execution rules and iOS CallKit integration.
